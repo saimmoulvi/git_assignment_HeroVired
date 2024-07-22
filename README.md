@@ -9,13 +9,13 @@
 
 `cd git_assignment_HeroVired`
 
-**3) Create and switch to the 'dev' branch:
+**3) Create and switch to the 'dev' branch:**
 
 `git checkout -b dev`
 
-**4) Add the initial Code:
+**4) Add the initial Code:**
 
-*Creat a file named 'calculator.py' and add the following code:
+*Creat a file named 'calculator.py' and add the following code:*
 
 
 
