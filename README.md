@@ -4,8 +4,8 @@
 2. Initialize with a README file.
 
 **2)Clone the repository on your local machine:**
-'[git clone] (https://github.com/saimmoulvi/git_assignment_HeroVired.git)'
-'cd git_assignment_HeroVired'
+`[git clone] (https://github.com/saimmoulvi/git_assignment_HeroVired.git)`
+`cd git_assignment_HeroVired`
 
 
 
