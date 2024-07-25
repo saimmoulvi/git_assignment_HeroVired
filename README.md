@@ -244,7 +244,7 @@
 
 **4) Verify the video file is downloaded correctly** 
 
-## Task 3: Calculating area of circle and square ##
+## Task 3: Calculating area of circle and rectangle ##
 
 **1) Create and switch to the 'feature/circle-area' branch:**
 
